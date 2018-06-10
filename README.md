@@ -1,4 +1,4 @@
-# marota-social-network
+# marota-social-network-postegresql
 
 Universidade do Estado de Santa Catarina - UDESC
 
